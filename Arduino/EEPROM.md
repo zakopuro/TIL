@@ -1,5 +1,6 @@
 # EEPROM
 以下のようにEEPROMを利用することができる。
+詳しくはこちらhttps://jumbleat.com/2017/11/04/using_eeprom_lib/
 ```cpp
 #include <EEPROM.h>
 void setup() {
