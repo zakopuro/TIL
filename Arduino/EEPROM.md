@@ -1,6 +1,6 @@
 # EEPROM
 以下のようにEEPROMを利用することができる。
-ple 1：リスト表示
+```cpp
 #include <EEPROM.h>
 void setup() {
 Serial.begin(9600);
@@ -25,3 +25,4 @@ else Serial.print("  ");
 }
 while (1);
 }
+```
